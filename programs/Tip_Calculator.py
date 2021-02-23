@@ -1,4 +1,4 @@
-#Tip Calculator
+#Tip Calculator for splitting the bill
 
 print("Welcome to the tip calculator")
 bill = float(input("What was your total bill? $ "))
